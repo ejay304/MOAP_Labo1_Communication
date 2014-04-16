@@ -1,0 +1,23 @@
+package ch.heig.moap.labo1_communication;
+
+import android.widget.Toast;
+
+public class AsyncSendRequest {
+	
+	void sendRequest(String request, String link){
+		ClientCommunication cm = new ClientCommunication();
+		try {
+			cm.sendRequest(request, link);
+		} catch (Exception e) {
+			Toast.makeText(getApplicationContext(), "ça plante", 
+					   Toast.LENGTH_LONG).show();
+		}
+	}
+	
+	void addCommunicationEventListener(CommunicationEventListener listener){
+		
+		
+		
+	}
+
+}

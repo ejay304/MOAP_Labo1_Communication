@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/alainfresco/Dropbox/Cours/LABO_AFO_RTD/MOAP/Labo1_Communications/src/.metadata/.plugins/org.eclipse.jdt.core
+2650450403.index
+249147866.index

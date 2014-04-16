@@ -1,0 +1,17 @@
+package ch.heig.moap.labo1_communication;
+
+public class AsyncSendRequest {
+	
+	void sendRequest(String request, String link){
+		ClientCommunication cm = new ClientCommunication();
+		cm.sendRequest(request, link);
+		
+	}
+	
+	void addCommunicationEventListener(CommunicationEventListener listener){
+		
+		
+		
+	}
+
+}

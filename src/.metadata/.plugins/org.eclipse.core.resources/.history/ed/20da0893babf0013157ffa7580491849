@@ -1,0 +1,5 @@
+package ch.heig.moap.labo1_communication;
+
+public class AsyncSendRequest {
+
+}
