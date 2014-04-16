@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Labo1_Communication</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtAccueil">Entrée un texte</string>
+    <string name="btnAccueil">Envoyer</string>
+
+</resources>
